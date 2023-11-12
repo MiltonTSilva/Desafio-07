@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorBanco", "SimuladorBanco\SimuladorBanco.csproj", "{693CCBC9-3ECA-45AB-B8F7-69E4108B810D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorBancoTeste", "SimuladorBancoTeste\SimuladorBancoTeste.csproj", "{82EF5397-A677-4029-B8A9-37C5C2C999D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693CCBC9-3ECA-45AB-B8F7-69E4108B810D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693CCBC9-3ECA-45AB-B8F7-69E4108B810D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693CCBC9-3ECA-45AB-B8F7-69E4108B810D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693CCBC9-3ECA-45AB-B8F7-69E4108B810D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54FB8606-9695-49FC-8CE5-3F6038394DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FB8606-9695-49FC-8CE5-3F6038394DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FB8606-9695-49FC-8CE5-3F6038394DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FB8606-9695-49FC-8CE5-3F6038394DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82EF5397-A677-4029-B8A9-37C5C2C999D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EF5397-A677-4029-B8A9-37C5C2C999D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EF5397-A677-4029-B8A9-37C5C2C999D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EF5397-A677-4029-B8A9-37C5C2C999D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

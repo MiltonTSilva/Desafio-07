@@ -1,0 +1,14 @@
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\bin\Debug\net7.0\SimuladorBanco.exe
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\bin\Debug\net7.0\SimuladorBanco.deps.json
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\bin\Debug\net7.0\SimuladorBanco.runtimeconfig.json
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\bin\Debug\net7.0\SimuladorBanco.dll
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\bin\Debug\net7.0\SimuladorBanco.pdb
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\obj\Debug\net7.0\SimuladorBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\obj\Debug\net7.0\SimuladorBanco.AssemblyInfoInputs.cache
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\obj\Debug\net7.0\SimuladorBanco.AssemblyInfo.cs
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\obj\Debug\net7.0\SimuladorBanco.csproj.CoreCompileInputs.cache
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\obj\Debug\net7.0\SimuladorBanco.dll
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\obj\Debug\net7.0\refint\SimuladorBanco.dll
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\obj\Debug\net7.0\SimuladorBanco.pdb
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\obj\Debug\net7.0\SimuladorBanco.genruntimeconfig.cache
+C:\Cursos\cSharp\Dio\Desafio-07\SimuladorBanco\obj\Debug\net7.0\ref\SimuladorBanco.dll
